@@ -5,6 +5,7 @@ function App() {
   return (
       <div>
         <h2>Hello World!</h2>
+        <p>Nils Vähä-Vahe / VAMK / BIT</p>
       </div>
   );
 }
