@@ -4,6 +4,8 @@ function App() {
   return (
       <div>
         <ExpenseItem></ExpenseItem>
+        <ExpenseItem></ExpenseItem>
+        <ExpenseItem></ExpenseItem>
         <p>Nils Vähä-Vahe / VAMK / BIT</p>
       </div>
   );
