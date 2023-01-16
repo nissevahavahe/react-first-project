@@ -1,7 +1,7 @@
 import './Expenses.css'
 import ExpenseItem from './ExpenseItem.js';
 import Card from './Card';
-function Expenses(props){
+const Expenses = (props) =>{
 
     const object = props.expenses.map((items, index) =>(
         <ExpenseItem
